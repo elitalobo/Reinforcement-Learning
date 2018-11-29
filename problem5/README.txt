@@ -1,0 +1,3 @@
+RUN
+python qlearn_mountain_car.py num_of_trials
+python sarsa_mountain_car.py num_of_trials
