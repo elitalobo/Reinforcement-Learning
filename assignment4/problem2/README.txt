@@ -1,0 +1,5 @@
+RUN
+python poly_qlearn_cartpole.py num_of_trials
+python poly_sarsa_cartpole.py num_of_trials
+python tile_qlearn_cartpole.py num_of_trials
+python tile_sarsa_cartpole.py num_of_trials
